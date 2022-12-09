@@ -1,4 +1,4 @@
-# flutter_application_videoplayer
+# Max Player
 
 A new Flutter project.
 
