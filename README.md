@@ -1,16 +1,7 @@
-# flutter_application_videoplayer
+# Max Player
 
 A new Flutter project.
 
-## Getting Started
+![man](https://user-images.githubusercontent.com/111413480/208048082-b12627d1-d39b-4705-8d57-aa20302d1f59.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+with this app you can watch different video type and youtube video.
